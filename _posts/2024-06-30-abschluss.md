@@ -3,7 +3,7 @@ title: "Was habe ich (nicht) gelernt?"
 date: 2024-06-30
 ---
 
-**Entwurf**
+_Entwurf_
 
 Check Lernziele und Inhalte und Erwartungen aus Einstiegsartikel
 
