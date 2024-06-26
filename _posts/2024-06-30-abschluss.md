@@ -1,8 +1,11 @@
 ---
-title: """Was habe ich (nicht) gelernt?"
+title: "Was habe ich (nicht) gelernt?"
 date: 2024-06-30
 ---
 
+**Entwurf**
+
+Check Lernziele und Inhalte und Erwartungen aus Einstiegsartikel
 
 ## Lernziele
 Nach erfolgreicher Teilnahme am Modul sind die Studierenden in der Lage, 
