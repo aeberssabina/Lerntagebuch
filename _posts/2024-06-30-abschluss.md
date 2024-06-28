@@ -23,3 +23,10 @@ Nach erfolgreicher Teilnahme am Modul sind die Studierenden in der Lage,
 - Suchmaschinen und Discovery-Systeme
 - Repository-Software für Publikationen und Forschungsdaten
 - Linked Data
+
+wenig mit Kontext anfangen - teils schwer nachzuvollziehen
+trotzdem spannende 
+
+positive Überraschung: So viel Open-Source und grosse, aktive Communities
+Linked Data
+Discovery-System konfigurieren
