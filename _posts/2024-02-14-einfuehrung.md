@@ -3,6 +3,8 @@ title: "Wo bin ich gestartet?"
 date: 2024-02-14
 ---
 
+Willkommen zu meinem ersten Blogbeitrag in diesem Lerntagebung zum Modul Bibliotheks- und Archivinformatik.
+
 # Persönliche Ausgangslage
 
 Ich starte in das Modul Bibliotheks- und Archivinformatik ohne Erfahrung und Berührungspunkte mit Bibliotheks- und Archivsoftware. Dies ist für mich Neuland, und ich fühle mich ein wenig unsicher, da ich bisher in meiner beruflichen Laufbahn keinen direkten Kontakt mit dieser Art von Software hatte. Trotzdem bringe ich eine solide Grundlage aus einer kaufmännischen Lehre in der öffentlichen Verwaltung mit und kann auf mehrere Jahre Berufserfahrung im Verkauf zurückgreifen. Aktuell erweitere ich meinen Erfahrungsrucksack als Werkstudentin in einem Grosskonzern. Diese vielseitigen beruflichen Stationen haben mir wertvolle Einblicke in verschiedene Arbeitsbereiche und -prozesse ermöglicht. Was mir das alles für dieses Modul bringt, wird sich noch zeigen.
