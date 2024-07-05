@@ -17,7 +17,7 @@ _Evaluation der richtigen Software für spezifische Aufgaben:_ Durch praktische 
 
 _Integration von Daten in Suchportale:_ Das Konfigurieren eines Discovery-Systems war hilfreich, um zu verstehen, wie man Daten effizient in Suchportale integriert.
 
-_Modellierung bibliothekarischer und archivarischer Metadaten:_ Die verschiedenen Metadatenformate wie MARC, MARCXML, Dublin Core, EAD und BIBFRAME wurden behandelt, was mir einen Überblick über deren Anwendungsmöglichkeiten gegeben hat.
+_Modellierung bibliothekarischer und archivarischer Metadaten:_ Die verschiedenen Metadatenformate wie MARC, Dublin Core, EAD und BIBFRAME wurden behandelt, was mir einen Überblick über deren Anwendungsmöglichkeiten gegeben hat.
 
 _Konzeption und Anwendung von Crosswalks zwischen verschiedenen Metadatenformaten:_ Diese Fähigkeit ist wichtig für die Interoperabilität zwischen unterschiedlichen Systemen und Formaten.
 
